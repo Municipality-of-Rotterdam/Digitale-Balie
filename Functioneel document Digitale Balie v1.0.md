@@ -1,45 +1,11 @@
-﻿||![Kleine logo gemeente Rotterdam](Aspose.Words.1256f77a-ef20-4852-b692-f017dd858094.001.jpeg)|
-| :- | -: |
-
-
-||**Digitale Balie**|
-| :- | :- |
-||Functioneel ontwerp|
-||<p>**Van**</p><p>R.K.J. Bruijnzeels</p><p></p>|
-||<p>**Datum**</p><p>30 november 2021</p><p></p>|
-||<p>**Cluster**</p><p>Bestuurs- en Concernondersteuning</p><p></p>|
-||<p>**Afdeling**</p><p>IM&P Projecten</p><p></p>|
-
-|<p>**Datum**</p><p>10 maart 2021</p>|<p>**Pagina**</p><p>PAGE  \\* Arabic  \\* MERGEFORMAT3 van NUMPAGES  \\* Arabic  \\* MERGEFORMAT3</p>|
-| :- | -: |
-
 ![Kleine logo gemeente Rotterdam](Aspose.Words.1256f77a-ef20-4852-b692-f017dd858094.001.jpeg)
 
-**Inhoudsopgave**
 
-
-
-
-
-` `**TOC \o "1-4" \u \t "Kop 1;1" 1**	**Aanleiding	 PAGEREF \_Toc90552190 \h 3**
-
-**2**	**Doel	 PAGEREF \_Toc90552191 \h 4**
-
-**3**	**Voordelen	 PAGEREF \_Toc90552192 \h 5**
-
-**4**	**Functioneel overzicht	 PAGEREF \_Toc90552193 \h 6**
-
-**5**	**Opbouw van de applicatie architectuur (schematisch ontwerp)	 PAGEREF \_Toc90552194 \h 8**
-
-**6**	**Componenten	 PAGEREF \_Toc90552195 \h 9**
-
-
-
-1. # **Aanleiding**
+# **Aanleiding**
 De Digitale Balie applicatie, die voor de gemeente Rotterdam is gebouwd, wordt gebruikt om verbinding te maken met de burgers van Rotterdam. Het platform is ontstaan vanuit de COVID 19 pandemie waardoor burgers het gemeentehuis niet konden bezoeken en daardoor geen persoonlijke documenten konden opvragen, een geboorteaangifte konden doen, persoonlijke informatie op konden vragen om te kunnen trouwen, enzovoort. De gemeente was op zoek naar een manier zodat de burgers verzoeken konden doen en diensten konden afnemen zonder dat er reisbewegingen naar het gemeentehuis moesten plaatsvinden. Daarnaast moet de Digitale Balie applicatie ervoor zorgen dat er geen fysiek contact nodig is tussen de burger en de gemeente ambtenaren en er een volledige digitale afhandeling van de dienstverlening kan worden gedaan zonder concessies op vertrouwelijkheid, persoonlijkheid, gebruiksvriendelijkheid en snelheid.
 
 De Digitale Balie applicatie is ontwikkeld door CLEVR in opdracht van de Gemeente Rotterdam. De applicatie is ontwikkeld op het low-code platform Mendix. 
-1. # **Doel**
+# **Doel**
 Het doel van de applicatie is om persoonlijke dienstverlening mogelijk te maken tussen de gemeente en zijn burgers/ ondernemers. De Digitale Balie applicatie dient als complementaire dienstverlening aan de baliedienst in het gemeentehuis en ondersteund vele functies die normaal fysiek afgehandeld worden in een digitale omgeving. Denk hierbij aan het uitvoeren van transacties of het overleggen van documenten.
 
 Daarnaast is er een onderliggend doel wat wordt ingevuld door de Digitale Balie applicatie, te weten het voorzien in de groeiende vraag naar digitaal zakendoen met gemeenten en overheid.
@@ -49,7 +15,7 @@ Daarnaast is er een onderliggend doel wat wordt ingevuld door de Digitale Balie 
 De app is een communicatieplatform waarin twee partijen kunnen videobellen met de benodigde processen en dienstverlening eromheen. Documenten uploaden, inloggen met overheid specifieke login mechanismes, chatten, alle informatie toevoegen aan dossiers, is slechts een greep uit de functionaliteiten die met deze app kunnen worden afgehandeld. En alles is veilig terwijl de gebruiksvriendelijkheid (met name voor niet-technische gebruikers) de app zo gemakkelijk mogelijk kunnen gebruiken.
 
 
-1. # **Voordelen**
+# **Voordelen**
 De voordelen van de Digitale Balie zijn:
 
 - Een gezicht bij de gemeente – De burger blijft altijd centraal staan (ook de minder digitaal onderlegde burger) en heeft behoefte aan een “gezicht” bij de gemeente. De baliemedewerker kan dat gezicht zijn in de digitale omgeving en daarmee wordt het videogesprek als persoonlijk ervaren.
@@ -57,7 +23,7 @@ De voordelen van de Digitale Balie zijn:
 - Kwaliteit en veiligheid – De burger ontvangt alleen een link en kan de Digitale Balie gebruiken zonder enige installatie van software. Daarnaast zorgt de beveiligde omgeving ervoor dat een burger en medewerker altijd in een veilige omgeving zitten en daarmee de applicatie voldoet aan de gestelde compliance en security eisen.
 
 
-1. # **Functioneel overzicht**
+# **Functioneel overzicht**
 Hieronder is een overzicht te zien van alle functionaliteiten die onderdeel zijn van de Digitale Balie oplossing.
 
 
@@ -80,12 +46,10 @@ Hieronder is een overzicht te zien van alle functionaliteiten die onderdeel zijn
 |<p>**Documenten printen en exporteren**</p><p></p>|<p>De applicatie heeft de functionaliteit documenten te printen of te exporteren naar een bestandslocatie lokaal of op een gekoppeld netwerk. </p><p></p>|Documenten fysiek kunnen dupliceren en archiveren|
 
 
-1. # **Opbouw van de applicatie architectuur (schematisch ontwerp)**
+# **Opbouw van de applicatie architectuur (schematisch ontwerp)**
 De applicatie is opgebouwd uit de volgende modules: 
 
-![Diagram, timeline
-
-Description automatically generated](Aspose.Words.1256f77a-ef20-4852-b692-f017dd858094.002.png)
+![Diagram, timeline](Aspose.Words.1256f77a-ef20-4852-b692-f017dd858094.002.png)
 
 ***Figuur 1:** High level architectuur Digitale Balie applicatie.*
 
@@ -100,10 +64,10 @@ Description automatically generated](Aspose.Words.1256f77a-ef20-4852-b692-f017dd
    1. Er is een integratie met een SMS-gateway zodat burgers een bericht kunnen ontvangen als de afspraak begint
 
 
-1. # **Componenten**
+# **Componenten**
 
 
-|` `**​**|**​**|
+|**​**|**​**|
 | :- | :- |
 |**Mendix​**|Platform waarmee de Digitale Balie is ontwikkeld en ook het platform waarop de applicatie wordt gehost|
 |**Video platform​**|Videocall platform waarbij een API wordt gebruikt om gesprekken te plannen en een iFrame om het gespreksvenster op te nemen in de Digitale Balie|
@@ -115,10 +79,3 @@ Description automatically generated](Aspose.Words.1256f77a-ef20-4852-b692-f017dd
 |**Notificaties**|Dit is een module die onderdeel is van de Mendix omgeving en kan notificaties versturen naar verschillende apparaten en omgevingen|
 |**Virusscanner​**|Er is een module toegevoegd aan de Digitale Balie om ervoor te kunnen zorgen dat documenten worden gescand op virussen.|
 |**Single Sign On​**|Er is een module toegevoegd aan de Digitale Balie om gebruik te maken van Single Sign On functionaliteit (inlog gegevens van een eerdere inlog actie gebruiken)|
-
-
-
-|**Datum**|**Pagina**|
-| :- | :- |
-|30 november 2021|PAGE  \\* Arabic  \\* MERGEFORMAT3 van NUMPAGES  \\* Arabic  \\* MERGEFORMAT3|
-
