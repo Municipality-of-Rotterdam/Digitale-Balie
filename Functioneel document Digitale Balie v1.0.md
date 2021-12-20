@@ -1,4 +1,4 @@
-![Kleine logo gemeente Rotterdam](Aspose.Words.1256f77a-ef20-4852-b692-f017dd858094.001.jpeg)
+![Kleine logo gemeente Rotterdam](https://github.com/Municipality-of-Rotterdam/Digitale-Balie/blob/main/Image%20-%20Logo.jpeg)
 
 
 # **Aanleiding**
@@ -49,7 +49,7 @@ Hieronder is een overzicht te zien van alle functionaliteiten die onderdeel zijn
 # **Opbouw van de applicatie architectuur (schematisch ontwerp)**
 De applicatie is opgebouwd uit de volgende modules: 
 
-![Diagram, timeline](Aspose.Words.1256f77a-ef20-4852-b692-f017dd858094.002.png)
+![Componenten](https://github.com/Municipality-of-Rotterdam/Digitale-Balie/blob/main/Image%20-%20Components.png)
 
 ***Figuur 1:** High level architectuur Digitale Balie applicatie.*
 
