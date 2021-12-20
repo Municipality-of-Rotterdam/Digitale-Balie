@@ -1,5 +1,5 @@
 # Digitale Balie
-Videobellen met Rotterdammers. De Digitale Balie maakt digitale dienstverlening zo persoonlijk als een fysiek gesprek, en maakt persoonlijke dienstverlening zo makkelijk als digitaal.
+Welkom bij de Github omgeving van de Digitale Balie van de Gemeente Rotterdam: Videobellen met Rotterdammers. De Digitale Balie maakt digitale dienstverlening zo persoonlijk als een fysiek gesprek, en maakt persoonlijke dienstverlening zo makkelijk als digitaal.
 
 In maart 2020 startte de gemeente Rotterdam met de ontwikkeling van een videobel-balie, vanuit de acute noodzaak om het oogcontact met Rotterdammers te herstellen in tijden waarin dat niet zo vanzelfsprekend was. Op dat moment was er een urgente behoefte om dienstverlening te kunnen bieden voor Rotterdammers die niet naar ons toe konden komen, en waar wij niet naartoe konden. Denk daarbij aan het opnemen van geboorteaangiften bij mensen die in een ziekenhuis waren opgenomen, of ondersteuning aan ondernemers die in de problemen dreigden te raken. 
 
