@@ -17,5 +17,5 @@ Het motto van dit ontwikkelteam was en is: #gaatnietbestaatniet. We nodigen iede
 
 Meer info over de mogelijkheden van de digitale balie: digitalebalie@rotterdam.nl 
 
-Wil je contact over samenwerking in het kader van common ground en delen van oplossingen: rkj.bruijnzeels@rotterdam.nl of r.vanderklip@rotterdam.nl .
+Wil je contact over samenwerking in het kader van common ground en delen van oplossingen: rkj.bruijnzeels@rotterdam.nl .
 
