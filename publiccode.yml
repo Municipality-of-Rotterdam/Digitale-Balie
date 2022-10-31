@@ -113,3 +113,10 @@ platforms:
 releaseDate: '2022-01-03'
 softwareType: configurationFiles
 url: 'https://github.com/Municipality-of-Rotterdam/Digitale-Balie'
+ nl:
+  gemma:
+    bedrijfsfuncties:
+      - Klant- en keteninteractie
+    bedrijfsservices:
+      - Aanvraag advies
+      - Bedrijfsservice Vergunningverlening
