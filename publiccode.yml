@@ -12,8 +12,7 @@ description:
       - video balie
     genericName: Digitale Balie
     localisedName: Digitale Balie
-    longDescription: |2
-       
+    longDescription:        
 
       In maart 2020 startte de gemeente Rotterdam met de  ontwikkeling van een
       videobel-balie, vanuit de acute noodzaak om het  oogcontact met
@@ -75,7 +74,7 @@ description:
       Wil je contact over samenwerking in het kader van common ground en delen
       van oplossingen:
       [rkj.bruijnzeels@rotterdam.nl](mailto:rkj.bruijnzeels@rotterdam.nl) .
-    shortDescription: |-
+    shortDescription: 
       Digitale Balie maakt de digitale dienstverlening net zo persoonlijk als
       een fysiek gesprek. Een Rotterdamse oplossing op basis van videobellen 
 developmentStatus: stable
