@@ -4,7 +4,7 @@
 # **Aanleiding**
 De Digitale Balie applicatie, die voor de gemeente Rotterdam is gebouwd, wordt gebruikt om verbinding te maken met de burgers van Rotterdam. Het platform is ontstaan vanuit de COVID 19 pandemie waardoor burgers het gemeentehuis niet konden bezoeken en daardoor geen persoonlijke documenten konden opvragen, een geboorteaangifte konden doen, persoonlijke informatie op konden vragen om te kunnen trouwen, enzovoort. De gemeente was op zoek naar een manier zodat de burgers verzoeken konden doen en diensten konden afnemen zonder dat er reisbewegingen naar het gemeentehuis moesten plaatsvinden. Daarnaast moet de Digitale Balie applicatie ervoor zorgen dat er geen fysiek contact nodig is tussen de burger en de gemeente ambtenaren en er een volledige digitale afhandeling van de dienstverlening kan worden gedaan zonder concessies op vertrouwelijkheid, persoonlijkheid, gebruiksvriendelijkheid en snelheid.
 
-De Digitale Balie applicatie is ontwikkeld door CLEVR in opdracht van de Gemeente Rotterdam. De applicatie is ontwikkeld op het low-code platform Mendix. 
+De Digitale Balie applicatie is ontwikkeld door de Gemeente Rotterdam. De applicatie is ontwikkeld op het low-code platform Mendix. 
 # **Doel**
 Het doel van de applicatie is om persoonlijke dienstverlening mogelijk te maken tussen de gemeente en zijn burgers/ ondernemers. De Digitale Balie applicatie dient als complementaire dienstverlening aan de baliedienst in het gemeentehuis en ondersteund vele functies die normaal fysiek afgehandeld worden in een digitale omgeving. Denk hierbij aan het uitvoeren van transacties of het overleggen van documenten.
 
