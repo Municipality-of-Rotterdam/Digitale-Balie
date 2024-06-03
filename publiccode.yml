@@ -6,6 +6,10 @@ publiccodeYmlVersion: '0.2'
 categories:
   - web-conferencing
 description:
+      In maart 2020 startte de gemeente Rotterdam met de ontwikkeling van een
+      videobel-balie, vanuit de acute noodzaak om het oogcontact met
+      Rotterdammers te herstellen in tijden waarin dat niet zo  vanzelfsprekend
+      was. De ontwerpen van deze oplossing treft u hier aan.
   nl:
     documentation: 'https://github.com/Municipality-of-Rotterdam/Digitale-Balie'
     features:
